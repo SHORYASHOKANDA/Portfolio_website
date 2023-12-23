@@ -1,5 +1,10 @@
 # Personal Portfolio Website in React
 
+<<<<<<< HEAD
+=======
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+>>>>>>> f3e23a1e4ccb38c55081614cb455d6a517fbdde2
 Built using:
 
 - Front-end library: React

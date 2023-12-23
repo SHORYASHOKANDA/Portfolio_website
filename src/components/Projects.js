@@ -22,6 +22,7 @@ export const Projects = () => {
     {
       title: "Rental-Website",
       description: "Wordpress",
+      
       imgUrl: projImg3,
     },
   ];
